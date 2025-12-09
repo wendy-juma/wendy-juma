@@ -38,3 +38,11 @@ Each page contains the same navigation bar for consistent and easy movement acro
 ---
 
 ## 📂 Folder Structure
+style.css
+index.html
+description.html
+parks.html
+culture.html
+gallery.html
+about.html
+contact.html
